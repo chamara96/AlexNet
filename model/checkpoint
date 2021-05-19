@@ -1,0 +1,2 @@
+model_checkpoint_path: "AlexNet_MNIST_Model.ckpt"
+all_model_checkpoint_paths: "AlexNet_MNIST_Model.ckpt"
