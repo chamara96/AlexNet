@@ -6,3 +6,8 @@
 - OpenCV v4.1.0
 
 1. When you run the create_model.py, it will generate "model" folder with model files
+
+
+![](https://github.com/chamara96/AlexNet/blob/master/results.png)
+
+![](https://github.com/chamara96/AlexNet/blob/master/slip.png)
